@@ -1,5 +1,9 @@
 # PCSTree
-THIS IS THE CODE FOR CREATING A PARENT CHILD SIBLING TREE
+CODE CONTENTS:
+
+1. INSERTION OF NODE
+2. REMOVAL OF ANY NODE
+3. PRINTING OF TREE NODES
 
 The Parent-Child-Sibling tree has a structure of a tree where each node has pointers to its parent, its first child, and its next sibling. This representation is especially useful for trees with an arbitrary number of children per node.
 
